@@ -7,7 +7,7 @@ mydict={k:v for (k,v) in zip(keys,values)}
 print(mydict)
 
 # using fromkeys() method
-dic=dict.fromkeys(range(5), true)
+dic=dict.fromkeys(range(5), True)
 print(dic)
 
 # creation using list comprehension
